@@ -1,3 +1,5 @@
+Shallow copy of https://github.com/opencv/opencv/releases/tag/4.8.1.
+
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
